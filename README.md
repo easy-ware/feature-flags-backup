@@ -1,2 +1,9 @@
 # feature-flags-backup
-Build artifact cache for CI/CD
+
+Internal data processing pipeline for automated workflows.
+
+## Status
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
+This repository contains configuration and cached artifacts for internal tooling.
